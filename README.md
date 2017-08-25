@@ -12,9 +12,9 @@ Credits: **Kristjano Monka**
 
 Behance: https://www.behance.net/KristjanoMonka
 
-![alt text](AlbCode Logo-01.png "ALBCode logo")
-![alt text](AlbCode Logo-02.png "ALBCode logo")
-![alt text](AlbCode Logo-03.png "ALBCode logo")
-![alt text](AlbCode Logo-04.png "ALBCode logo")
-![alt text](AlbCode Logo-05.png "ALBCode logo")
-![alt text](AlbCode Logo-06.png "ALBCode logo")
+![Alt text](AlbCodeLogo-01.png?raw=true "ALBCode logo")
+![Alt text](AlbCodeLogo-02.png "ALBCode logo")
+![Alt text](AlbCodeLogo-03.png "ALBCode logo")
+![Alt text](AlbCodeLogo-04.png "ALBCode logo")
+![Alt text](AlbCodeLogo-05.png "ALBCode logo")
+![Alt text](AlbCodeLogo-06.png "ALBCode logo")
